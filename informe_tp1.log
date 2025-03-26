@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.3.20)  24 MAR 2025 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.3.20)  26 MAR 2025 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,33 +136,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 49.
 
-[2] (./informe_tp1.aux
+[2]
+<pava1.jpg, id=21, 3011.25pt x 4015.0pt>
+File: pava1.jpg Graphic file (type jpg)
+<use pava1.jpg>
+Package pdftex.def Info: pava1.jpg  used on input line 104.
+(pdftex.def)             Requested size: 199.16928pt x 265.51768pt.
+ [3 <./pava1.jpg>]
+<pava2.jpg, id=26, 3011.25pt x 4015.0pt>
+File: pava2.jpg Graphic file (type jpg)
+<use pava2.jpg>
+Package pdftex.def Info: pava2.jpg  used on input line 113.
+(pdftex.def)             Requested size: 170.71652pt x 227.59534pt.
+<pava3.jpg, id=27, 3011.25pt x 4015.0pt>
+File: pava3.jpg Graphic file (type jpg)
+<use pava3.jpg>
+Package pdftex.def Info: pava3.jpg  used on input line 120.
+(pdftex.def)             Requested size: 170.71652pt x 227.59534pt.
+ [4 <./pava2.jpg> <./pava3.jpg>]
+<pava4.jpg, id=31, 3011.25pt x 4015.0pt>
+File: pava4.jpg Graphic file (type jpg)
+<use pava4.jpg>
+Package pdftex.def Info: pava4.jpg  used on input line 129.
+(pdftex.def)             Requested size: 170.71652pt x 227.59534pt.
+<pava5.jpg, id=32, 1084.05pt x 2348.775pt>
+File: pava5.jpg Graphic file (type jpg)
+<use pava5.jpg>
+Package pdftex.def Info: pava5.jpg  used on input line 132.
+(pdftex.def)             Requested size: 113.81102pt x 246.57489pt.
+ [5 <./pava4.jpg> <./pava5.jpg>]
+<pava6.jpg, id=36, 1084.05pt x 2348.775pt>
+File: pava6.jpg Graphic file (type jpg)
+<use pava6.jpg>
+Package pdftex.def Info: pava6.jpg  used on input line 141.
+(pdftex.def)             Requested size: 113.81102pt x 246.57489pt.
+ [6 <./pava6.jpg>] [7] (./informe_tp1.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 2616 strings out of 480185
- 42169 string characters out of 5894213
- 349602 words of memory out of 5000000
- 20589 multiletter control sequences out of 15000+600000
+ 2663 strings out of 480185
+ 42782 string characters out of 5894213
+ 350575 words of memory out of 5000000
+ 20630 multiletter control sequences out of 15000+600000
  474325 words of font info for 45 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 55i,7n,62p,235b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,62p,429b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/julian/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.6
 00pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmtt12.pfb>
-Output written on informe_tp1.pdf (2 pages, 132446 bytes).
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.
+pfb>
+Output written on informe_tp1.pdf (7 pages, 3134153 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
